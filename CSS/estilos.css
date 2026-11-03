@@ -3,6 +3,7 @@
   border:           10px ridge #f00;
   background-color:  #ff0;
   padding:          0.5rem;
+  block-size:        150;
   display:          flex;
   flex-direction:    column;
   
